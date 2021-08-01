@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "카테고리"
-    url: /category/
+    url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
